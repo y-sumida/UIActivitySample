@@ -1,0 +1,2 @@
+# UIActivitySample
+UIActivityをつかってアプリ間データ連携
